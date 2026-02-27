@@ -1,0 +1,5 @@
+{
+  "name": "CPU Scheduling Simulator",
+  "description": "Educational visualization tool for FCFS and SJF CPU scheduling algorithms.",
+  "requestFramePermissions": []
+}
