@@ -67,10 +67,10 @@ This project is designed for students and educators to understand scheduling con
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/edwingeorgeshaji/FCFS_SJF-Scheduling-Visualizer.git
 
 # Navigate into project folder
-cd <project-folder>
+cd FCFS_SJF-Scheduling-Visualizer
 
 # Install dependencies
 npm install
