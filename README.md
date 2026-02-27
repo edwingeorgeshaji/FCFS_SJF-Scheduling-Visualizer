@@ -1,8 +1,8 @@
 # CPU Scheduling Visualizer
 
-<p align="center">
-  > <strong>Interactive visualization of FCFS and SJF (Non-Preemptive) CPU Scheduling Algorithms</strong>
-</p>
+
+ > <strong>Interactive visualization of FCFS and SJF (Non-Preemptive) CPU Scheduling Algorithms</strong>
+
 
 ---
 
