@@ -103,38 +103,6 @@ npm run build
 └── vite.config.ts
 ```
 
-### File Explanation
-
-**src/**
-Contains the main application source code including React components, scheduling logic, and styling.
-
-**index.html**
-Root HTML template used by Vite to mount the React application.
-
-**package.json**
-Defines project dependencies, scripts, and metadata.
-
-**package-lock.json**
-Locks dependency versions for consistent installations.
-
-**tsconfig.json**
-TypeScript configuration for strict type checking and compilation settings.
-
-**vite.config.ts**
-Configuration file for Vite build and development server.
-
-**.env.example**
-Template for environment variables (if required in future extensions).
-
-**metadata.json**
-Project-related metadata configuration.
-
-**LICENSE**
-Specifies the legal usage terms of the project.
-
-**.gitignore**
-Defines files and folders excluded from version control.
-
 ---
 
 ## Learning Objectives
