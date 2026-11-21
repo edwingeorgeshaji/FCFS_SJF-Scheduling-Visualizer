@@ -131,3 +131,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 <p align="center">
   Built to simplify operating system scheduling concepts through visualization.
 </p>
+
+ <div align='center'>
+  
+  Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ </div>
